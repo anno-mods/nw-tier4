@@ -30,7 +30,8 @@ Install the plugin, open a mod folder and press `F1` and choose `Build Anno Mod`
 
 ## Contribution Guide
 
-TBD
+- Use GUIDs from range 1.500.020.000 to	1.500.023.999
+- TBD
 
 ## Translations
 
