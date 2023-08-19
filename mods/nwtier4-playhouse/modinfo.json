@@ -1,0 +1,18 @@
+{
+  "out": "${annoMods}/[Addon] New World Tier 4/nwtier4-playhouse",
+  "Version": "0.1",
+  "ModID": "nwtier4-playhouse",
+  "DeprecateIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "English": "Skin"
+  },
+  "ModName": {
+    "English": "Comedy Playhouse"
+  },
+  "Description": {
+    "English": "TBD"
+  },
+  "CreatorName": "jje1000",
+  "CreatorContact": "https://github.com/anno-mods/nw-tier4"
+}
