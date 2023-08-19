@@ -1,0 +1,13 @@
+<ModOps>
+  <!-- NW College -->
+
+  <ModOp Type="add" GUID="1010362" Path="/Values/Building">
+    <AllowChangeVariation>1</AllowChangeVariation>
+  </ModOp>
+  <ModOp Type="add" GUID="1010362" Path="/Values/Object/Variations">
+    <Item>
+      <Filename>data/nwtier4/buildings/public/service_07/nw_college.cfg</Filename>
+    </Item>
+  </ModOp>
+
+</ModOps>
